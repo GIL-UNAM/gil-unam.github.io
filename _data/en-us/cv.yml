@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Grupo de Ingeniería Lingüística
+    - name: Founded
+      value: August 1999
     - name: Languages
-      value: English, German
+      value: Spanish, English
 
 - title: Education
   type: time_table
