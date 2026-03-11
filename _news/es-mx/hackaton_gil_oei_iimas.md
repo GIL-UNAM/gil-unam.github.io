@@ -78,7 +78,7 @@ En [este enlace](https://www.iling.unam.mx) se encuentran los lineamientos de pa
 
 ---
 
-Revisa nuestro [aviso de privacidad](/assets/pdf/general/Hackathon%20GIL-OEI_Terminos_y_Condiciones.pdf).
+Revisa nuestros [términos y condiciones](/assets/pdf/general/Hackathon%20GIL-OEI_Terminos_y_Condiciones.pdf).
 
 ---
 
