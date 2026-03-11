@@ -64,15 +64,15 @@ En [este enlace](https://www.iling.unam.mx) se encuentran los lineamientos de pa
 
 - 🥉 Tercer lugar
 
-500 USD en tarjetas de regalo.
+$8,000.00 MXN en tarjetas de regalo.
 
 - 🥈 Segundo lugar
 
-750 USD en tarjetas de regalo.
+$13,000.00 MXN en tarjetas de regalo.
 
 - 🥇 Primer lugar
 
-1250 USD en tarjetas de regalo.
+$22,000.00 MXN en tarjetas de regalo.
 
 *Se otrogará un certificado de participación a todos los equipos independientemente del resultado.*
 
