@@ -6,7 +6,10 @@ inline: false
 related_posts: false
 ---
 
-*Grupo de Ingeniería Lingüística, OEI, IIMAS.*
+<img src="/assets/img/institutions/GIL_UNAM.png" alt="Logo del GIL" style="width: auto; height: 3em; margin-right: 1.5em;">
+<img src="/assets/img/institutions/IIMAS.png" alt="Logo del IIMAS" style="width: auto; height: 3em; margin-right: 1.5em;">
+<img src="/assets/img/institutions/OEI.png" alt="Logo de OEI" style="width: auto; height: 3em; margin-right: 1.5em;">
+<img src="/assets/img/institutions/LATE_IIMAS.png" alt="Logo del GIL" style="width: auto; height: 3em;">
 
 ---
 ## Diccionarios Parlantes
@@ -80,9 +83,3 @@ $22,000.00 MXN en tarjetas de regalo.
 
 Revisa nuestros [términos y condiciones](/assets/pdf/general/Hackathon%20GIL-OEI_Terminos_y_Condiciones.pdf).
 
----
-
-<img src="/assets/img/institutions/GIL_UNAM.png" alt="Logo del GIL" style="width: auto; height: 3em; margin-right: 1.5em;">
-<img src="/assets/img/institutions/IIMAS.png" alt="Logo del IIMAS" style="width: auto; height: 3em; margin-right: 1.5em;">
-<img src="/assets/img/institutions/OEI.png" alt="Logo de OEI" style="width: auto; height: 3em; margin-right: 1.5em;">
-<img src="/assets/img/institutions/LATE_IIMAS.png" alt="Logo del GIL" style="width: auto; height: 3em;">
