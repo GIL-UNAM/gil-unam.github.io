@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Hackathon: Archivo Vivo de las Lenguas Originarias"
 date: 2026-03-09 12:00:00-0400
 inline: false
@@ -9,7 +9,7 @@ related_posts: false
 <img src="/assets/img/institutions/GIL_UNAM.png" alt="Logo del GIL" style="width: auto; height: 3em; margin-right: 1.5em;">
 <img src="/assets/img/institutions/IIMAS.png" alt="Logo del IIMAS" style="width: auto; height: 3em; margin-right: 1.5em;">
 <img src="/assets/img/institutions/OEI.png" alt="Logo de OEI" style="width: auto; height: 3em; margin-right: 1.5em;">
-<img src="/assets/img/institutions/LATE_IIMAS.png" alt="Logo del GIL" style="width: auto; height: 3em;">
+<img src="/assets/img/institutions/LATE_Lab.png" alt="Logo de LATE Lab" style="width: auto; height: 3em;">
 
 ---
 ## Diccionarios Parlantes

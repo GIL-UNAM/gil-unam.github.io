@@ -1,12 +1,15 @@
 ---
-layout: post
+layout: page
 title: "Hackathon: Archivo Vivo de las Lenguas Originarias"
 date: 2026-03-09 12:00:00-0400
 inline: false
 related_posts: false
 ---
 
-*Grupo de Ingeniería Lingüística, OEI, IIMAS.*
+<img src="/assets/img/institutions/GIL_UNAM.png" alt="GIL Logo" style="width: auto; height: 3em; margin-right: 1.5em;">
+<img src="/assets/img/institutions/IIMAS.png" alt="IIMAS Logo" style="width: auto; height: 3em; margin-right: 1.5em;">
+<img src="/assets/img/institutions/OEI.png" alt="OEI Logo" style="width: auto; height: 3em; margin-right: 1.5em;">
+<img src="/assets/img/institutions/LATE_Lab.png" alt="LATE Lab Logo" style="width: auto; height: 3em;">
 
 ---
 ## Talking Dictionaries
@@ -64,14 +67,18 @@ Participation guidelines can be found [here](https://www.iling.unam.mx).
 
 - 🥉 Third place
 
-500 USD in gift cards.
+$8,000.00 MXN in gift cards.
 
 - 🥈 Second place
 
-750 USD in gift cards.
+$13,000.00 MXN in gift cards.
 
 - 🥇 First place
 
-1250 USD in gift cards.
+$22,000.00 MXN in gift cards.
 
 *A participation certificate will be awarded to all teams regardless of their result.*
+
+---
+
+Read our [Terms & Conditions (in Spanish)](/assets/pdf/general/Hackathon%20GIL-OEI_Terminos_y_Condiciones.pdf).

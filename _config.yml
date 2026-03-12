@@ -20,12 +20,12 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: monokai # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dracula # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: light # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: dart # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: false
-  theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
-  theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
+  theme_light: light # https://github.com/ryo-ma/github-profile-trophy
+  theme_dark: dark # https://github.com/ryo-ma/github-profile-trophy
 
 # External service URLs for repository page
 # To use a different instance or service for displaying GitHub stats and trophies,
@@ -469,7 +469,7 @@ third_party_libraries:
     version: "5.5.0"
   google_fonts:
     url:
-      fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
+      fonts: "https://fonts.googleapis.com/css?family=IBM+Plex+Sans:ital,300,400,500,700|Fira+Code:100,300,400,500,700|Material+Icons&display=swap"
   highlightjs:
     integrity:
       css:
