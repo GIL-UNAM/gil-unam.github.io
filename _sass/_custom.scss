@@ -1,4 +1,6 @@
-/* Custom styles for the GIL UNAM website */
+/* PurgeCSS safelist */
+.keep-roca-two {
+
 
 /* Thin */
 @font-face {
@@ -32,12 +34,6 @@
   $primary: #d8a727 !important;
   $background-color: #0d1117 !important;
   $text-color: #e6edf3 !important;
-}
-
-/* Apply custom fonts to headings and monospace */
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Roca Two", sans-serif !important;
-  font-weight: 700 !important;  /* or 400, or 700 — you choose */
 }
 
 /* Change monospace font to Fira Code */
@@ -92,3 +88,9 @@ figcaption.uncategorized {
     font-family: Fira Code, monospace;
     font-weight: 500;
     }
+
+/* Apply custom fonts to headings and monospace */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Roca Two", sans-serif !important;
+  font-weight: 700 !important;  /* or 400, or 700 — you choose */
+}
