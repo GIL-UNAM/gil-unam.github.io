@@ -45,7 +45,7 @@ En el marco de este Hackatón, el proyecto se enfoca en resolver la complejidad 
 
 El registro se puede hacer individual o por equipo (4-6 integrantes). En caso de que tu equipo no complete la cantidad de integrantes, se juntarán equipos incompletos. *¡Se puede hacer registro individual!*
 
-En [este enlace](https://www.iling.unam.mx) se encuentran los lineamientos de participación.
+En [este enlace](https://forms.gle/xxqRB4U2mePUWdxi7) se pede hacer el registro
 
 ---
 
