@@ -45,7 +45,7 @@ Within the framework of this Hackathon, the project focuses on addressing the co
 
 Registration can be individual or by team (4–6 members). If your team does not complete the number of members, incomplete teams will be combined. *Individual registration is allowed!*
 
-Participation guidelines can be found [here](https://www.iling.unam.mx).
+You can register [here](https://forms.gle/xxqRB4U2mePUWdxi7).
 
 ---
 
