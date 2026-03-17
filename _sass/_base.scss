@@ -19,6 +19,14 @@ strong {
   color: var(--global-text-color);
 }
 
+h1,
+h2,
+h3,
+h4 {
+  font-family: Lateef, sans-serif;
+  font-weight: 500;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -751,9 +759,6 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1rem;
-
-      .preview {
-      }
 
       .abbr {
         margin-bottom: 0.5rem;
@@ -1543,4 +1548,9 @@ figure.cover {
 
 mjx-container[jax="CHTML"][display="true"] {
   overflow-x: auto;
+}
+
+/* Remove shadow on Main Page */
+.z-depth-1 {
+  box-shadow: none !important;
 }
