@@ -7,6 +7,7 @@ related_posts: false
 ---
 
 <img src="/assets/img/institutions/GIL_UNAM.png" alt="Logo del GIL" style="width: auto; height: 3em; margin-right: 1.5em;">
+<img src="/assets/img/institutions/IIB.png" alt="IIB Logo" style="width: auto; height: 3em; margin-right: 1.5em;">
 <img src="/assets/img/institutions/IIMAS.png" alt="Logo del IIMAS" style="width: auto; height: 3em; margin-right: 1.5em;">
 <img src="/assets/img/institutions/OEI.png" alt="Logo de OEI" style="width: auto; height: 3em; margin-right: 1.5em;">
 <img src="/assets/img/institutions/LATE_Lab.png" alt="Logo de LATE Lab" style="width: auto; height: 3em;">
