@@ -13,11 +13,11 @@ related_posts: false
 <img src="/assets/img/institutions/LATE_Lab.png" alt="LATE Lab Logo" style="width: auto; height: 3em;">
 
 ---
-## Talking Dictionaries
+# Talking Dictionaries
 
 The Talking Dictionaries project for Indigenous Languages, promoted with the support of the OEI, aims to transform traditional lexicographic materials into high-availability interactive digital tools. This initiative not only preserves the sound and lexical heritage of languages such as Maya, Nahuatl, Sierra Popoluca, Iskonawa and Zapotec, but also builds a technological bridge for their educational and scientific use. By integrating native audio and structured metadata, the project makes the ancestral knowledge of these communities accessible, functional, and resilient in the face of the digital divide.
 
-### Objectives
+## Objectives
 Within the framework of this Hackathon, the project focuses on addressing the complexity of data heterogeneity. The goal is to move from static formats (PDF/Word) to dynamic JSON structures and, subsequently, establish networks of lexical-semantic correspondences among the different languages. Through the analysis of phenomena such as colexification and differentiated lexicalization, we seek not only to digitize words but to map the worldview and the unique conceptual relationships of each culture, thereby strengthening language engineering applied to indigenous languages.
 
 ---
@@ -30,19 +30,19 @@ Within the framework of this Hackathon, the project focuses on addressing the co
 
 ---
 
-### Formal Problem Description
+## Formal Problem Description
 
 *The formal problem description will be announced soon.*
 
 ---
 
-### Dates and Location
+## Dates and Location
 - April 17–20, 2026
 - Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS) - Edificio C, Universidad Nacional Autónoma de México
 
 ---
 
-### Registration
+## Registration
 
 Registration can be individual or by team (4–6 members). If your team does not complete the number of members, incomplete teams will be combined. *Individual registration is allowed!*
 
@@ -50,13 +50,13 @@ You can register [here](https://forms.gle/xxqRB4U2mePUWdxi7).
 
 ---
 
-### Evaluation
+## Evaluation
 
-- Information Retrieval
+- ### Information Retrieval
 
 >This section focuses on retrieving and analyzing relevant information from the submitted projects. Thorough evaluation of the technical approach and implementation details.
 
-- Expert Evaluation
+- ### Expert Evaluation
 
 >Experienced professionals will review each project based on innovation, creativity, and potential impact. Detailed feedback will be provided to all participants.
 
@@ -64,7 +64,7 @@ You can register [here](https://forms.gle/xxqRB4U2mePUWdxi7).
 
 ---
 
-### Prizes
+## Prizes
 
 - 🥉 Third place
 

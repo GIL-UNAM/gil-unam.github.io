@@ -13,11 +13,11 @@ related_posts: false
 <img src="/assets/img/institutions/LATE_Lab.png" alt="Logo de LATE Lab" style="width: auto; height: 3em;">
 
 ---
-## Diccionarios Parlantes
+# Diccionarios Parlantes
 
 El proyecto de Diccionarios Parlantes para Lenguas Indígenas, impulsado con el apoyo de la OEI, busca transformar materiales lexicográficos tradicionales en herramientas digitales interactivas de alta disponibilidad. Esta iniciativa no solo preserva el patrimonio sonoro y léxico de lenguas como el maya, náhuatl, popoluca de la sierra, iskonawa y zapoteco, sino que construye un puente tecnológico para su uso educativo y científico. Al integrar audio nativo y metadatos estructurados, el proyecto permite que el conocimiento ancestral de estas comunidades sea accesible, funcional y resiliente ante la brecha digital.
 
-### Objetivos
+## Objetivos
 En el marco de este Hackatón, el proyecto se enfoca en resolver la complejidad de la heterogeneidad de los datos. El objetivo es transitar de formatos estáticos (PDF/Word) a estructuras JSON dinámicas y, posteriormente, establecer redes de correspondencia léxico-semántica entre las distintas lenguas. Mediante el análisis de fenómenos como la colexificación y la lexicalización diferenciada, buscamos no solo digitalizar palabras, sino mapear la cosmovisión y las relaciones conceptuales únicas de cada cultura, fortaleciendo así la ingeniería lingüística aplicada a las lenguas originarias.
 
 ---
@@ -30,33 +30,33 @@ En el marco de este Hackatón, el proyecto se enfoca en resolver la complejidad 
 
 ---
 
-### Descripción formal del problema
+## Descripción formal del problema
 
 *La descripción formal del problema se anunciará próximamente.*
 
 ---
 
-### Fechas y Ubicaciones
+## Fechas y Ubicaciones
 - Abril 17-20, 2026
 - Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS) - Edificio C, Universidad Nacional Autónoma de México
 
 ---
 
-### Registro
+## Registro
 
 El registro se puede hacer individual o por equipo (4-6 integrantes). En caso de que tu equipo no complete la cantidad de integrantes, se juntarán equipos incompletos. *¡Se puede hacer registro individual!*
 
-En [este enlace](https://forms.gle/xxqRB4U2mePUWdxi7) se pede hacer el registro
+El registro se puede hacer en [este enlace](https://forms.gle/xxqRB4U2mePUWdxi7).
 
 ---
 
-### Evaluación
+## Evaluación
 
-- Recuperación de Información
+- ### Recuperación de Información
 
 >Esta sección se centra en recuperar y analizar información relevante de los proyectos presentados. Evaluación exhaustiva del enfoque técnico y detalles de implementación.
 
-- Evaluadores Expertos
+- ### Evaluadores Expertos
 
 >Profesionales experimentados revisarán cada proyecto basándose en la innovación, creatividad e impacto potencial. Se proporcionará retroalimentación detallada a todos los participantes.
 
@@ -64,7 +64,7 @@ En [este enlace](https://forms.gle/xxqRB4U2mePUWdxi7) se pede hacer el registro
 
 ---
 
-### Premios
+## Premios
 
 - 🥉 Tercer lugar
 
