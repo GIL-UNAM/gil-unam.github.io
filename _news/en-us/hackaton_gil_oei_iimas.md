@@ -37,6 +37,11 @@ Within the framework of this Hackathon, the project focuses on addressing the co
 ---
 
 ## Dates and Location
+<ul>
+  <li>
+    <h4 style="color: #e74c3c; margin: 0;">Registration deadline: April 13</h4>
+  </li>
+</ul>
 - April 17–20, 2026
 - Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS) - Edificio C, Universidad Nacional Autónoma de México
 

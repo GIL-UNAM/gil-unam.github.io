@@ -37,6 +37,11 @@ En el marco de este Hackatón, el proyecto se enfoca en resolver la complejidad 
 ---
 
 ## Fechas y Ubicaciones
+<ul>
+  <li>
+    <h4 style="color: #e74c3c; margin: 0;">Fecha límite para el registro: 13 de abril</h4>
+  </li>
+</ul>
 - Abril 17-20, 2026
 - Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas (IIMAS) - Edificio C, Universidad Nacional Autónoma de México
 
