@@ -6,10 +6,10 @@ inline: false
 related_posts: false
 ---
 
-<img src="/assets/img/institutions/GIL_UNAM.png" alt="GIL Logo" style="width: auto; height: 3em; margin-right: 1.5em;">
-<img src="/assets/img/institutions/IIB.png" alt="IIB Logo" style="width: auto; height: 3em; margin-right: 1.5em;">
-<img src="/assets/img/institutions/IIMAS.png" alt="IIMAS Logo" style="width: auto; height: 3em; margin-right: 1.5em;">
-<img src="/assets/img/institutions/OEI.png" alt="OEI Logo" style="width: auto; height: 3em; margin-right: 1.5em;">
+<img src="/assets/img/institutions/GIL_UNAM.png" alt="GIL Logo" style="width: auto; height: 3em; margin-right: 1em;">
+<img src="/assets/img/institutions/IIB.png" alt="IIB Logo" style="width: auto; height: 3em; margin-right: 1em;">
+<img src="/assets/img/institutions/IIMAS.png" alt="IIMAS Logo" style="width: auto; height: 3em; margin-right: 1em;">
+<img src="/assets/img/institutions/OEI.png" alt="OEI Logo" style="width: auto; height: 3em; margin-right: 1em;">
 <img src="/assets/img/institutions/LATE_Lab.png" alt="LATE Lab Logo" style="width: auto; height: 3em;">
 
 ---
