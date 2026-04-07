@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Grupo de Ingeniería Lingüística # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: "Grupo de"
 middle_name: "Ingeniería"
 last_name: "Lingüística"
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-icon: 🐈‍⬛ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: gil_favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://gil-unam.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -52,7 +52,7 @@ posts_in_search: false
 bib_search: fasle
 
 # Dimensions
-max_width: 1080px
+max_width: 1000px
 
 # TODO: add layout settings (single page vs. multi-page)
 

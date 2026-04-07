@@ -1,0 +1,2 @@
+### Dr. Gerardo Eugenio Sierra Martínez
+Researcher at the Instituto de Investigaciones Bibliográficas at UNAM and specialist in linguistic engineering and computational linguistics. He is the founder of GIL and one of the main driving forces behind the development of language technologies in Mexico. In addition, he is a member of the Sistema Nacional de Investigadores (SNI III) and founder of the Asociación Mexicana para el Procesamiento del Lenguaje Natural (AMPLN).

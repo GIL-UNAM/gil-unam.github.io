@@ -1,0 +1,2 @@
+### Dra. Gemma Bel Enguix
+Desde 2016 es Investigadora Titular en la UNAM y actualmente jefa del Grupo de Ingeniería Lingüística. Ha tenido una participación destacada en tareas compartidas internacionales (IberLEF, SemEval, ACL), especialmente en temas de discurso de odio y análisis social del lenguaje. La Dra. aporta al GIL una visión internacional, formal y computacional, conectando la tradición lingüística con técnicas modernas de IA y aprendizaje automático.

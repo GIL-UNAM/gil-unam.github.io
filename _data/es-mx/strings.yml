@@ -18,8 +18,9 @@ bibliography:
 blog:
   navigation_title: blog
 categories:
-  fun: diversión
-  work: trabajo
+  dev: desarrollos
+  social: servicio social y voluntariado
+  teaching: enseñanza
 citation:
   bibtex: "o como entrada de BibTex:"
   introduction: "Si te pareció útil, cítalo como:"
@@ -114,7 +115,7 @@ months:
     october: Oct
     november: Nov
     december: Dic
-news: Eventos
+news: Noticias
 newsletter:
   back: Atrás
   error: "Error. Intenta de nuevo"

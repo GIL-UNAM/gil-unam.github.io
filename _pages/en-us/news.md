@@ -1,7 +1,7 @@
 ---
 page_id: news
 layout: page
-title: 📅 Events
+title: 📅 News
 permalink: /news/
 nav: true
 nav_order: 1

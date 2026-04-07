@@ -18,8 +18,9 @@ bibliography:
 blog:
   navigation_title: blog
 categories:
-  fun: fun
-  work: work
+  dev: development
+  social: social service and volunteering
+  teaching: teaching
 citation:
   bibtex: "or as a BibTeX entry:"
   introduction: "If you found this useful, please cite this as:"
@@ -114,7 +115,7 @@ months:
     october: Oct
     november: Nov
     december: Dec
-news: Events
+news: News
 newsletter:
   back: Back
   error: "Oops! Something went wrong, please try again."

@@ -1,0 +1,2 @@
+### Dr. Jorge Lázaro Hernández
+Lingüista, investigador en procesamiento del lenguaje natural y especialista en terminología, con una sólida formación humanística complementada por trabajo en lingüística computacional. Ha colaborado de manera estrecha con el Grupo de Ingeniería Lingüística (GIL) de la UNAM desde hace varios años. Actualmente colabora como consultor académico, técnico y administrativo en proyectos del grupo.

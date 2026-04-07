@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: 🐈‍⬛ Inicio
+title: 
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -28,6 +28,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+# Grupo de Ingeniería Lingüística
 
 En el Grupo de Ingeniería Lingüística (GIL) de la UNAM, nos dedicamos a la investigación en procesamiento del lenguaje natural (PLN), lingüística computacional e ingeniería lingüística, con el propósito de desarrollar proyectos y aplicaciones que respondan a las necesidades y desafíos del tratamiento automático del lenguaje en colaboración con diversas áreas académicas.
 

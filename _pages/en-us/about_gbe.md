@@ -1,0 +1,2 @@
+### Dra. Gemma Bel Enguix
+Since 2016, Dr. Bel has been a Senior Researcher at the UNAM and is currently head of the Grupo de Ingeniería Lingüística. She has played a prominent role in international shared tasks (IberLEF, SemEval, ACL), especially in topics related to hate speech and social analysis of language. Dr. Bel brings to the GIL an international, formal, and computational perspective, connecting the linguistic tradition with modern AI and machine learning techniques.
