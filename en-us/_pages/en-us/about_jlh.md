@@ -1,0 +1,2 @@
+### Dr. Jorge Lázaro Hernández
+Linguist, researcher in natural language processing, and terminology specialist, with a strong humanistic background complemented by work in computational linguistics. He has collaborated closely with the Grupo de Ingeniería Lingüística (GIL) at UNAM for several years. He currently collaborates as an academic, technical, and administrative consultant on group projects.

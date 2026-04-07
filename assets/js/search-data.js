@@ -14,29 +14,31 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-inicio",
-    title: "🐈‍⬛ Inicio",
+    id: "nav-",
+    title: "",
     section: "Menú de navegación",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-eventos",
-          title: "📅 Eventos",
+  },{id: "nav-noticias",
+          title: "📅 Noticias",
           description: "",
           section: "Menú de navegación",
           handler: () => {
             window.location.href = "/news/";
+          },
+        },{id: "nav-miembros",
+          title: "👾 Miembros",
+          description: "",
+          section: "Menú de navegación",
+          handler: () => {
+            window.location.href = "/us/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-hackathon-archivo-vivo-de-las-lenguas-originarias",
-          title: 'Hackathon: Archivo Vivo de las Lenguas Originarias',
-          description: "",
-          section: "Noticias",handler: () => {
-              window.location.href = "/news/hackaton_gil_oei_iimas/";
             },},{id: "projects-projeto-1",
           title: 'projeto 1',
           description: "com imagem de fundo",
