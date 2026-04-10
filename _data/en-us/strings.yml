@@ -20,7 +20,7 @@ blog:
 categories:
   dev: development
   social: social service and volunteering
-  teaching: teaching
+  formation: formation
 citation:
   bibtex: "or as a BibTeX entry:"
   introduction: "If you found this useful, please cite this as:"

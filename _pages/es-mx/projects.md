@@ -1,12 +1,11 @@
 ---
 page_id: projects
 layout: page
-title: 💾 Proyectos
+title: 🖯 Proyectos
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+nav: true
 nav_order: 3
-display_categories: [dev, social, teaching]
+display_categories: [formation, dev, teaching]
 horizontal: false
 ---
 

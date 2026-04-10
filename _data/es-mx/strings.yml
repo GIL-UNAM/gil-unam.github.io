@@ -20,7 +20,7 @@ blog:
 categories:
   dev: desarrollos
   social: servicio social y voluntariado
-  teaching: enseñanza
+  formation: formación
 citation:
   bibtex: "o como entrada de BibTex:"
   introduction: "Si te pareció útil, cítalo como:"
