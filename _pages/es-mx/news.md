@@ -1,7 +1,7 @@
 ---
 page_id: news
 layout: page
-title: 🕭 Noticias
+title: Noticias
 permalink: /news/
 nav: true
 nav_order: 1

@@ -2,7 +2,7 @@
 page_id: profiles
 layout: profiles
 permalink: /us/
-title: 📚︎ Información
+title: Información
 nav: true
 nav_order: 7
 

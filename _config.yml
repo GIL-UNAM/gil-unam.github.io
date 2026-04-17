@@ -49,7 +49,7 @@ footer_fixed: false
 search_enabled: false
 socials_in_search: true
 posts_in_search: false
-bib_search: fasle
+bib_search: false
 
 # Dimensions
 max_width: 1080px
@@ -469,7 +469,7 @@ third_party_libraries:
     version: "5.5.0"
   google_fonts:
     url:
-      fonts: "https://fonts.googleapis.com/css?family=IBM+Plex+Sans:ital,300,400,500,700|Lateef:wght@200;300;400;500;600;700;800|Fira+Code:100,300,400,500,700|Material+Icons&display=swap"
+      fonts: "https://fonts.googleapis.com/css?family=Coral+Pixels|IBM+Plex+Sans:ital,300,400,500,700|Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900|Fira+Code:100,300,400,500,700|Material+Icons&display=swap"
   highlightjs:
     integrity:
       css:

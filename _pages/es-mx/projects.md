@@ -1,7 +1,7 @@
 ---
 page_id: projects
 layout: page
-title: 🖯 Proyectos
+title: Proyectos
 permalink: /projects/
 nav: true
 nav_order: 3
