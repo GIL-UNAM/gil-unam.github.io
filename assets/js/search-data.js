@@ -21,21 +21,21 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-noticias",
-          title: "🕭 Noticias",
+          title: "Noticias",
           description: "",
           section: "Menú de navegación",
           handler: () => {
             window.location.href = "/news/";
           },
         },{id: "nav-proyectos",
-          title: "🖯 Proyectos",
+          title: "Proyectos",
           description: "",
           section: "Menú de navegación",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-︎-información",
-          title: "📚︎ Información",
+        },{id: "nav-información",
+          title: "Información",
           description: "",
           section: "Menú de navegación",
           handler: () => {
@@ -62,46 +62,39 @@ ninja.data = [{
           section: "Proyectos",handler: () => {
               window.location.href = "/projects/reg_ss/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Redes Sociales',
-        handler: () => {
-          window.open("/assets/pdf/es-mx//assets/pdf/[LANG]/example_pdf.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'Enviar email',
         section: 'Redes Sociales',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%67%69%6C@%69%69%6E%67%65%6E.%75%6E%61%6D.%6D%78", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-facebook',
+        title: 'Facebook',
         section: 'Redes Sociales',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://facebook.com/ingenieriaLinguistica", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Redes Sociales',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://github.com/GIL-UNAM", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-youtube',
+        title: 'YouTube',
         section: 'Redes Sociales',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://youtube.com/@gil_unam", "_blank");
         },
       },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Redes Sociales',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://linktr.ee/gil_unam", "_blank");
         },
       },{
           id: 'lang-en-us',
