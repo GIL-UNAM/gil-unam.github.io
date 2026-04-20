@@ -1,8 +1,22 @@
+// GIL Web Fonts
+@import url(https://db.onlinewebfonts.com/c/f31070c4c2ee96405b121b04cfdbb839?family=RocaTwo-Bl);
+@import url(https://db.onlinewebfonts.com/c/5ff15b9000ec386de9409f74df766fe8?family=Roca+Two+Thin);
+@import url(https://db.onlinewebfonts.com/c/bf9f5d50c1b928ff21436517a1a95ad9?family=Proxima+Nova);
+
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
 // Typography
+p {
+    font-family: "Proxima Nova", sans-serif;
+    letter-spacing: 0.5px;
+}
+
+body {
+    font-family: "Proxima Nova", sans-serif;
+    letter-spacing: 0.5px;
+}
 
 p,
 h1,
@@ -23,8 +37,8 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: Fraunces, sans-serif;
-  font-weight: 500;
+  font-family: "RocaTwo-Bl", serif;
+  font-weight: normal;
 }
 
 hr {
@@ -39,6 +53,7 @@ table {
   }
 
   th {
+    font-family: "Roca Two Thin", serif;
     font-weight: bold;
   }
 }
@@ -144,7 +159,7 @@ blockquote {
 }
 
 // Checklist
-
+fr
 ul.task-list {
   list-style-type: none; /* Remove bullets from all levels */
 }
@@ -207,14 +222,15 @@ ul.task-list input[type="checkbox"] {
   width: 100%;
 
   .more-info {
-    margin-bottom: 5px;
-    margin-top: 5px;
-    font-family: Fira Code, monospace;
-    font-weight: 500;
+    margin-bottom: 1rem;
+    margin-top: 0.5rem;
 
     p {
+      color: var(--global-theme-color) !important;
+      font-family: "Roca Two Thin", sans-serif;
+      font-weight: bold;
       display: inline-block;
-      margin: 0;
+      margin: 0.2rem;
     }
   }
 }
@@ -430,7 +446,7 @@ ul.task-list input[type="checkbox"] {
 
     a {
       img {
-        width: 3.5rem;
+        width: auto;
         height: 2.5rem;
         margin-bottom: 1rem;
       }
@@ -497,8 +513,8 @@ ul.task-list input[type="checkbox"] {
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
-  font-family: Coral Pixels, serif;
-  font-weight: 400;
+  font-family: "Roca Two Thin", sans-serif;
+  font-weight: bold;
   font-style: normal;
   font-size: 0.8rem;
 
@@ -523,8 +539,8 @@ footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: Coral Pixels, serif;
-  font-weight: 400;
+  font-family: "Roca Two Thin", sans-serif;
+  font-weight: bold;
   font-style: normal;
   font-size: 0.8rem;
 
@@ -789,7 +805,7 @@ footer.sticky-bottom {
       }
 
       .title {
-        font-weight: bolder;
+        font-weight: 500;
       }
 
       .author {
@@ -1478,8 +1494,8 @@ figure.cover {
   }
 
   figcaption.abandoned {
-    font-family: Fira Code, monospace;
-    font-weight: 500;
+    font-family: "Roca Two Thin", sans-serif;
+    font-weight: bold;
     color: #23212d;
     text-transform: uppercase;
     background-color: #ee5f5b;
@@ -1487,32 +1503,32 @@ figure.cover {
 
   figcaption.finished,
   figcaption.watched {
-    font-family: Fira Code, monospace;
-    font-weight: 500;
+    font-family: "Roca Two Thin", sans-serif;
+    font-weight: bold;
     color: #23212d;
     text-transform: uppercase;
     background-color: #62c462;
   }
 
   figcaption.interested {
-    font-family: Fira Code, monospace;
-    font-weight: 500;
+    font-family: "Roca Two Thin", sans-serif;
+    font-weight: bold;
     color: #23212d;
     text-transform: uppercase;
     background-color: #7691db;
   }
 
   figcaption.paused {
-    font-family: Fira Code, monospace;
-    font-weight: 500;
+    font-family: "Roca Two Thin", sans-serif;
+    font-weight: bold;
     color: #23212d;
     text-transform: uppercase;
     background-color: #bdac7e;
   }
 
   figcaption.queued {
-    font-family: Fira Code, monospace;
-    font-weight: 500;
+    font-family: "Roca Two Thin", sans-serif;
+    font-weight: bold;
     color: #23212d;
     text-transform: uppercase;
     background-color: #9e76b5;
@@ -1520,8 +1536,8 @@ figure.cover {
 
   figcaption.reading,
   figcaption.watching {
-    font-family: Fira Code, monospace;
-    font-weight: 500;
+    font-family: "Roca Two Thin", sans-serif;
+    font-weight: bold;
     color: #23212d;
     text-transform: uppercase;
     background-color: #f89406;
@@ -1529,16 +1545,16 @@ figure.cover {
 
   figcaption.reread,
   figcaption.rewatch {
-    font-family: Fira Code, monospace;
-    font-weight: 500;
+    font-family: "Roca Two Thin", sans-serif;
+    font-weight: bold;
     color: #23212d;
     text-transform: uppercase;
     background-color: #a6517d;
   }
 
   figcaption.uncategorized {
-    font-family: Fira Code, monospace;
-    font-weight: 500;
+    font-family: "Roca Two Thin", sans-serif;
+    font-weight: bold;
     color: #23212d;
     text-transform: uppercase;
     background-color: #b0abb3;

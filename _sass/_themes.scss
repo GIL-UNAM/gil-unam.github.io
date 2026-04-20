@@ -78,14 +78,21 @@
 
 html[data-theme="dark"] {
   color-scheme: dark;
-  
-  @media (prefers-color-scheme: dark) {
-    .profile {
-      filter: brightness(500%) grayscale(100%);
-    }
-  }
 
-  @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
+  .profile img.rounded-circle { filter: none !important; }
+  .profile img.rounded:not(.rounded-circle) {
+    filter: brightness(500%) grayscale(100%);
+  }
+}
+
+ @media (prefers-color-scheme: dark) {
+.social .contact-icons a img {
+    filter: invert(1)!important;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
   .site-header-image {
     filter: brightness(500%) grayscale(100%);
   }

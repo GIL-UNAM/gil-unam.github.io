@@ -53,6 +53,6 @@ github_username: GIL-UNAM # your GitHub user name
 youtube_id: gil_unam # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: http://gil-unam.github.io/assets/img/gil_logo_linktree.svg # can be png, svg, jpg
+  logo: https://cdn.brandfetch.io/id_tNIm05N/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668070417741 # can be png, svg, jpg
   title: GIL en Linktree # the name of the social media platform or website
   url: https://linktr.ee/gil_unam # the URL to your profile on that platform or website
