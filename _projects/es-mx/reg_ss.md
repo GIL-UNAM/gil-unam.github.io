@@ -8,16 +8,18 @@ importance: 1
 category: formation
 related_publications: false
 tabs: true
+toc:
+  sidebar: left
 images:
   slider: true
 ---
 
-<swiper-container keyboard="true" navigation="false" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" style="width: 50%; height: auto">
+<swiper-container keyboard="true" navigation="false" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" style="width: 50%; height: auto, float: right">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/people/ss_pp.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/people/ss.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
-### Requisitos
+## Requisitos
 
 *El servicio social lo puedes iniciar una vez que cubras, al menos, el 70% de créditos de tu carrera.*
 
@@ -43,6 +45,8 @@ Nuestros programas de Servicio Social y Prácticas profesionales, ambos de nombr
 - La incorporación es posible en cualquier momento del semestre, siempre que cumplan con los requisitos de ingreso.
 
 ---
+
+## Actividades por áreas
 
 ### Área 1
 
@@ -252,3 +256,24 @@ Nuestros programas de Servicio Social y Prácticas profesionales, ambos de nombr
 {% endtabs %}
 
 ---
+
+## Estudio Técnico Especializado de Enseñanza de Inglés (ETE-ENP-UNAM)
+
+<img src="https://www.ete.enp.unam.mx/images/header_footer/logo_ete.svg" alt="Logo ETE" style="width: 10%; height: auto; float: right; margin-top: 0.5em; margin-left: 1.5em">
+
+En el GIL, también ofrecemos la posibilidad de que estudiantes del ETE en Enseñanza de Inglés realicen sus prácticas profesionales. Con ello, buscamos fortalecer su formación técnica y pedagógica mediante la aplicación de conocimientos lingüísticos en contextos tecnológicos y de investigación, difusión y divulgación académica.
+
+### Requisitos para prácticas profesionales
+
+- Acreditar el 70 por ciento de la totalidad de los módulos o asignaturas
+- Carta de Presentación (solicita en la página de Coordinación)
+- Completar el registro siguiendo las instrucciones [de este documento.](https://www.ete.enp.unam.mx/pdfs/alumnado/Present_PE.pdf)
+
+### Lista de actividades
+
+- Uso de habilidades técnicas para el departamento de difusión y divulgación académica.
+- Manejo de herramientas digitales para la creación de publicaciones escritas y en video.
+- Lectura y revisión de temas relacionados con las actividades y áreas de conocimiento del Grupo de Ingeniería Lingüística.
+- Apoyo en el etiquetado de corpus multilingües.
+- Evaluación del desempeño de modelos en tareas relacionadas con el idioma inglés.
+- Revisión de escritos académicos.
