@@ -7,7 +7,7 @@ img: assets/img/people/ss.jpg
 importance: 2
 category: dev
 related_publications: false
-tabs: true
+tabs: false
 toc:
   sidebar: left
 images:
