@@ -49,6 +49,26 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/en-us/projects/2_project/";
+            },},{id: "projects-buscadores-y-extractores",
+          title: 'Buscadores y extractores',
+          description: "aqui va una descripcion",
+          section: "Projects",handler: () => {
+              window.location.href = "/en-us/projects/buscadores/";
+            },},{id: "projects-corpus",
+          title: 'Corpus',
+          description: "aqui va una descripcion",
+          section: "Projects",handler: () => {
+              window.location.href = "/en-us/projects/corpus/";
+            },},{id: "projects-diccionarios",
+          title: 'Diccionarios',
+          description: "aqui va una descripcion",
+          section: "Projects",handler: () => {
+              window.location.href = "/en-us/projects/diccionarios/";
+            },},{id: "projects-otros",
+          title: 'Otros',
+          description: "aqui va una descripcion",
+          section: "Projects",handler: () => {
+              window.location.href = "/en-us/projects/otros/";
             },},{id: "projects-servicio-social-y-prácticas-profesionales",
           title: 'Servicio Social y Prácticas Profesionales',
           description: "Aquí podrás acercarte a uno de los principales grupos académicos en México dedicados al estudio del Procesamiento del Lenguaje Natural (PLN), uno de los campos más apasionantes de las ciencias de la computación. Conoce más sobre nuestros programas y las actividades por área.",
