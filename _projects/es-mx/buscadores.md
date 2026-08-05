@@ -2,7 +2,7 @@
 page_id: buscadores
 layout: page
 title: Buscadores y extractores
-description: aqui va una descripcion
+description: 
 img: assets/img/dev/Buscadores/MBDAII.jpg
 importance: 2
 category: dev

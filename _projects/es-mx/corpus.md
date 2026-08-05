@@ -2,7 +2,7 @@
 page_id: corpus
 layout: page
 title: Corpus
-description: aqui va una descripcion
+description: Los corpus son un conjunto amplio y estructurado de textos, creado independientemente de sus posibles formas o usos. Aquí encontrarás todos nuestros recursos relacionados.
 img: assets/img/dev/corpus/Corpus.jpg
 importance: 1
 category: dev

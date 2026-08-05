@@ -2,7 +2,7 @@
 page_id: diccionarios
 layout: page
 title: Diccionarios
-description: aqui va una descripcion
+description: 
 img: assets/img/dev/Diccionarios/DEBO.jpg
 importance: 3
 category: dev

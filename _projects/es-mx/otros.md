@@ -2,7 +2,7 @@
 page_id: otros
 layout: page
 title: Otros
-description: aqui va una descripcion
+description: Recursos y aplicaciones adicionales.
 img: assets/img/dev/otros/otros.jpg
 importance: 4
 category: dev
