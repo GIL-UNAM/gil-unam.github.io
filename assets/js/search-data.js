@@ -58,22 +58,22 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-buscadores-y-extractores",
           title: 'Buscadores y extractores',
-          description: "aqui va una descripcion",
+          description: "",
           section: "Proyectos",handler: () => {
               window.location.href = "/projects/buscadores/";
             },},{id: "projects-corpus",
           title: 'Corpus',
-          description: "aqui va una descripcion",
+          description: "Los corpus son un conjunto amplio y estructurado de textos, creado independientemente de sus posibles formas o usos. Aquí encontrarás todos nuestros recursos relacionados.",
           section: "Proyectos",handler: () => {
               window.location.href = "/projects/corpus/";
             },},{id: "projects-diccionarios",
           title: 'Diccionarios',
-          description: "aqui va una descripcion",
+          description: "",
           section: "Proyectos",handler: () => {
               window.location.href = "/projects/diccionarios/";
             },},{id: "projects-otros",
           title: 'Otros',
-          description: "aqui va una descripcion",
+          description: "Recursos y aplicaciones adicionales.",
           section: "Proyectos",handler: () => {
               window.location.href = "/projects/otros/";
             },},{id: "projects-servicio-social-y-prácticas-profesionales",
